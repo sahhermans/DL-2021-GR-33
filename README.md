@@ -4,7 +4,7 @@ Made for the Deep Learning course CS4240 2021, an elective within the MSc Comput
 
 In this repository the code and stimuli can be found that were used to reproduce figure 4 from the paper "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness" by R. Geirhos et al. The stimuli and the classification code is used from the repository belonging to this paper: https://github.com/rgeirhos/texture-vs-shape. 
 
-Here our blogpost on this subject can be found: https://yellowcherry.github.io/DeepLearningProject/. 
+Here our blogpost on this subject can be found: https://sahhermans.github.io/DL-2021-GR-33/.
 
 In this repository multiple folders and files can be found:
 
